@@ -1,0 +1,30 @@
+/* Selector universal: */
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Selector de etiqueta */
+h1{
+    background: rebeccapurple;
+    color: yellow;
+    padding: 10px;
+}
+
+/* Selector de id: */
+#divisorMolon {
+    color: yellowgreen;
+    border: 2px;
+    background: none;
+}
+
+/* Selector de elemento dentro de otro: */
+#divisorMolon h6{
+    color: yellowgreen;
+    border: 2px;
+    background: none;
+}
+
+/* Selector de atributo: */
+
+
+/* Selector de clase: */
